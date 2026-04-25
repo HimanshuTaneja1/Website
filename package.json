@@ -28,7 +28,7 @@
     "mdx-bundler": "^10.0.3",
     "mermaid": "11.4.1",
     "next": "^15.1.7",
-    "next-mdx-remote": "^5.0.0",
+    "next-mdx-remote": "^6.0.0",
     "postprocessing": "^6.36.4",
     "react": "^19.0.0",
     "react-calendly": "^4.3.1",
